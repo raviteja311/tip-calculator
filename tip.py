@@ -1,4 +1,4 @@
-VERSION = "0.1.0"
+VERSION = "1.0.0"
 def tip(amount, percent=15):
     return round(amount * percent / 100, 2)
 def split(amount, people):
